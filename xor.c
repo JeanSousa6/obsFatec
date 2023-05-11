@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+//função xor em linguagem C 
 
 int xor (int a, int b);
 
